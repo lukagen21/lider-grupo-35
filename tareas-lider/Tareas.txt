@@ -1,0 +1,3 @@
+creacion del repositorio local
+Creacion del repocitorio remoto (GIT HUB) y invitacion de los intrgrantes
+ creacion de la rama lider
